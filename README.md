@@ -17,7 +17,7 @@ cd new_project
 git clone https://github.com/GRAP-UdL-AT/RGBD_sensors_evaluation_in_Orchards.git
 ```
 
-### prerequisites
+### Prerequisites
 
 * MATLAB R2020a (we have not tested it in other matlab versions)
 * Computer Vision System Toolbox
