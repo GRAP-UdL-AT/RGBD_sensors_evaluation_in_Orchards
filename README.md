@@ -50,8 +50,9 @@ Please contact authors to report bugs @ jordi.genemola@udl.cat
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
     @article{Gené-Mola2020,
-        Author = {Author_01, Author_02, ....,  and Author_XX},
-        Title = {Assessment methodology to evaluate RGB-D sensors for 3D orchards characterization},
-        Journal = {Submitted},
+        Author = {{Gen{\'e}-Mola, Jordi and Llorens, Jordi and Rosell-Polo, Joan R and Gregorio, Eduard and Arn{\'o}, Jaume and Solanelles, Francesc and Mart{\'i}nez-Casasnovas, Jos{\'e} A and Escol{\`a}, Alexandre },
+        Title = {Assessing the Performance of RGB-D Sensors for 3D Fruit Crop Canopy Characterization under Different Operating and Lighting Conditions },
+        Journal = {Sensors},
         Year = {2020}
+        doi = {https://doi.org/10.3390/s20247072}
     } 
