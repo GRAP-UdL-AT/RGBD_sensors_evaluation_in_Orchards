@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is a matlab implementation to evaluate RGB-D sensor performances by analysing RGB-D data acquired in different orchard conditions. The code follows the assessment methodology presented in [1], and it was used to evaluate the performance of Microsoft Kinect v2 by using the [KEvOr dataset](http://www.grap.udl.cat/en/publications/KEvOr_dataset.html). Find more information in:
-* [Assessment methodology to evaluate RGB-D sensors for 3D orchards characterization [1]](http://www.grap.udl.cat/en/publications/index.html) (submitted, not publicly available yet).
+* [Assessment methodology to evaluate RGB-D sensors for 3D orchards characterization [1]](https://doi.org/10.3390/s20247072).
 
 ## Preparation 
 
